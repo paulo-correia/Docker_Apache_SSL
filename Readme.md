@@ -34,7 +34,7 @@ If you see "It works on Docker SSL!" is OK
 
 Download certificate
 
-`https://localhost:<other local port>/localhost.crt`
+`http://localhost:<other local port>/localhost.crt`
 
 To correct the certificate on your browser import localhost.crt on Ceriticates - Authorities
 
